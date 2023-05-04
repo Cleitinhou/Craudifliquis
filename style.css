@@ -1,0 +1,36 @@
+
+
+
+
+body{
+    background-color: rgb(78, 78, 78);
+    color: rgb(31, 31, 31);
+}
+h1{
+    background-color: rgb(32, 32, 32);
+    color: aliceblue;
+    justify-items: start;
+    text-align: center;
+    font-size: 40px;
+}
+header{
+background-color: brown;
+color: aliceblue;
+font-size: 100px;
+text-align: center;
+font-family: serif;
+size: }
+
+.div-films{
+    size: 40%;
+    display: flex;
+    padding: 20px;
+}
+.filme-2{
+    height: ;
+    width:140% ;
+    padding: 20px;
+}
+.filme-3{
+    width: 75%;
+}
