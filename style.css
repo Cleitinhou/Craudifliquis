@@ -15,7 +15,7 @@ h1{
 }
 header{
 background-color: rgb(0, 0, 0);
-color: rgb(206, 9, 9);
+color: rgb(160, 31, 31);
 font-size: 100px;
 text-align: center;
 font-family: serif;
@@ -26,8 +26,8 @@ border-radius: 10px;
 .div-films{
 text-align: center;
 justify-content: center;
-display: flex;
 border-radius: 10px;
+display: flex;
 
 }
 .filmes{
@@ -39,13 +39,11 @@ border-radius: 10px;
  
 h3{
     font-size: 25px;
-    color: aliceblue;
-    text-align: center;
-    text-align: center;
+    color: aliceblue; 
 }
 .name-fls{
     font-size: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: swap;
 }
 .introd{
     font-size: 30px;
@@ -56,3 +54,25 @@ h3{
     color: rgb(192, 192, 192);
     text-align: left;
 }
+ img{
+    border-radius: 50px;
+ }
+ .informacoes{
+     background-color: rgb(240, 240, 240);
+     display: flex;
+
+ }
+
+ .cartazes{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+ }
+ .dispositivos{
+   width: 400px;
+   height: 220px ;
+  filter: invert(100%);
+ }
+ .paragrafo{ 
+    padding: 25px;
+    color: aliceblue;
+font-size: 30px;}
